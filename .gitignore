@@ -1,0 +1,16 @@
+# Ignore large raw environmental rasters (exceeds GitHub 100 MB file limit)
+rasters/raw/
+*.zip
+*.hdf
+*.nc
+
+# Ignore temporary QGIS backup/lock files
+*.qgz~
+*.gpkg-wal
+*.gpkg-shm
+
+# Ignore Python cache & OS thumbnails
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

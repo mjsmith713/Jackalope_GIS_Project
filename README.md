@@ -21,7 +21,13 @@ While peer-reviewed veterinary studies have mapped isolated museum specimens and
 ---
 
 ## Cartographic & Statistical Outputs
-*(Place exported poster image in `outputs/jackalope_bivariate_poster.png` to render below)*
+## Cartographic & Statistical Outputs
+
+### 1. Bivariate Choropleth Poster: Viral Risk vs. Folklore Suitability
+![Bivariate Choropleth Poster](outputs/jackalope_bivariate_poster.png)
+
+### 2. Statistical Validation: Sightings vs. Random Background
+![Statistical Validation Chart](outputs/validation_chart.png)
 
 * **Main Deliverable:** 11" × 17" Bivariate Choropleth Poster contrasting **Track A (Epidemiological Risk Index)** against **Track B (Folklore Habitat Suitability)** in `NAD83 / Conus Albers (EPSG:5070)`.
 * **Statistical Validation:** Probability density comparison of symptomatic lagomorph sightings against random regional background points (`outputs/validation_chart.png`).
